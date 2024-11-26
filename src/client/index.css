@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#tradingview_chart {
+  height: 400px;
+  width: 100%;
+}
